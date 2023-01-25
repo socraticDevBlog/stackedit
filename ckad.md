@@ -33,6 +33,9 @@ https://app.pluralsight.com/paths/certificate/certified-kubernetes-application-d
 
 - Kubernetes for Developers: Core Concepts
 - Kubernetes for Developers: Deploying Your Code
+- Kubernetes for Developers: Integrating Volumes and Using Multi-container Pods
+- Kubernetes for Developers: Moving from Docker Compose to Kubernetes
+- Kubernetes for Developers: Moving to the Cloud
 
 #### cheatsheet
 
